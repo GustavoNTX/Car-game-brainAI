@@ -107,3 +107,5 @@ Melhor fitness da geração.
 Tempo de volta ou tempo total do melhor carro.
 
 Essas informações ajudam a acompanhar a evolução dos carros ao longo do tempo.
+
+por mim mesmo Gustavo Nogueira
